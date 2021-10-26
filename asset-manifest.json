@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/clintDemo/static/css/main.bab0b925.chunk.css",
+    "main.js": "/clintDemo/static/js/main.1c0d3968.chunk.js",
+    "main.js.map": "/clintDemo/static/js/main.1c0d3968.chunk.js.map",
+    "runtime-main.js": "/clintDemo/static/js/runtime-main.ad5a2edb.js",
+    "runtime-main.js.map": "/clintDemo/static/js/runtime-main.ad5a2edb.js.map",
+    "static/js/2.dcc6c72b.chunk.js": "/clintDemo/static/js/2.dcc6c72b.chunk.js",
+    "static/js/2.dcc6c72b.chunk.js.map": "/clintDemo/static/js/2.dcc6c72b.chunk.js.map",
+    "index.html": "/clintDemo/index.html",
+    "static/css/main.bab0b925.chunk.css.map": "/clintDemo/static/css/main.bab0b925.chunk.css.map",
+    "static/js/2.dcc6c72b.chunk.js.LICENSE.txt": "/clintDemo/static/js/2.dcc6c72b.chunk.js.LICENSE.txt",
+    "static/media/cart2.b28515aa.png": "/clintDemo/static/media/cart2.b28515aa.png",
+    "static/media/hero-banner.6f799e63.png": "/clintDemo/static/media/hero-banner.6f799e63.png",
+    "static/media/hero-slide1.2fec6a44.png": "/clintDemo/static/media/hero-slide1.2fec6a44.png",
+    "static/media/hero-slide2.557fba08.png": "/clintDemo/static/media/hero-slide2.557fba08.png",
+    "static/media/hero-slide3.89b87822.png": "/clintDemo/static/media/hero-slide3.89b87822.png",
+    "static/media/logo.a82f3903.gif": "/clintDemo/static/media/logo.a82f3903.gif",
+    "static/media/product1.f5be84ed.png": "/clintDemo/static/media/product1.f5be84ed.png",
+    "static/media/review-2.5d08f51c.png": "/clintDemo/static/media/review-2.5d08f51c.png",
+    "static/media/review-3.f4b36891.png": "/clintDemo/static/media/review-3.f4b36891.png",
+    "static/media/s-p1.eb799d08.jpg": "/clintDemo/static/media/s-p1.eb799d08.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ad5a2edb.js",
+    "static/js/2.dcc6c72b.chunk.js",
+    "static/css/main.bab0b925.chunk.css",
+    "static/js/main.1c0d3968.chunk.js"
+  ]
+}
